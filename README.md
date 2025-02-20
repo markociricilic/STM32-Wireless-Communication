@@ -22,4 +22,4 @@ Once the receiver received the data it would output it on the receiver’s compu
 
 To determine the original transmission, a simple check was used; if the amount of 1’b1 in the payload was greater than 100 then it would be decoded as a 1’b1, else it would be considered a 1’b0. From this the binary values were decoded back to characters.
 
-For an overview of the project concept, hardware details, and photos of the setup, please visit [markociricilic.com/projects/wireless-communication](https://markociricilic.com/projects/wireless-communication).
+For an overview of the project concept, hardware details, and photos of the setup, please visit [Wireless Communication between STM32](https://markociricilic.com/projects/wireless-communication).
